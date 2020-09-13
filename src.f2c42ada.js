@@ -532,4 +532,4 @@ var e;!function(){"use strict";var r={}.hasOwnProperty;function n(){for(var e=[]
 },{"./App.scss":"s8eH","chroma-js":"O2lz","lodash/sortBy":"oKSM","react":"HdMw","react-router-dom":"rx6s","./ClassTable":"xjYp","./FilterForm":"Kz2y","./LessonList":"LIMM","./Navbar":"yARP","./PlanForm":"ta1C","./SemesterNav":"fygK","./Utils":"CX4N"}],"OGgv":[function(require,module,exports) {
 "use strict";require("./index.css");var e=u(require("react")),t=u(require("react-dom")),r=u(require("./App"));function u(e){return e&&e.__esModule?e:{default:e}}t.default.render(e.default.createElement(e.default.StrictMode,null,e.default.createElement(r.default,null)),document.getElementById("root"));
 },{"./index.css":"s8eH","react":"HdMw","react-dom":"X9zx","./App":"vmSA"}]},{},["OGgv"], null)
-//# sourceMappingURL=course-plus/src.f2c42ada.js.map
+//# sourceMappingURL=/course-plus/src.f2c42ada.js.map
